@@ -1,0 +1,10 @@
+.paginate-container img {
+   display: none;
+   height: 300px;
+   width: 500px;
+}
+.paginate-disabled {
+   color: #000;
+   cursor: pointer;
+   text-decoration: none;
+}
